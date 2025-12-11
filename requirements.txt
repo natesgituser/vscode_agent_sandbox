@@ -1,2 +1,5 @@
 # Optional dependency for LLM mode
 openai>=1.0.0
+
+# Dev/test dependency
+pytest>=7.0.0
